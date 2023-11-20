@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MHKDEVELPMENT
 - 👀 I’m interested in colabs.
- 📫 How to reach me eatsleepcoding24@gmail.com
+- 📫 How to reach me eatsleepcoding24@gmail.com
 
 
 # 💻 Tech Stack:
