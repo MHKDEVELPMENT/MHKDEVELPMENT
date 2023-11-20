@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MHKDEVELPMENT
-- 👀 I’m interested in colabs.
+- 👋 Hi, we are @MHKDEVELPMENT
+- were interested in colabs.
 - 📫 How to reach us eatsleepcoding24@gmail.com
 
 
